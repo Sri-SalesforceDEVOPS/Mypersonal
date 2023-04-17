@@ -1267,6 +1267,7 @@
         <members>InvoiceLine.TaxRate</members>
         <members>InvoiceLine.Type</members>
         <members>InvoiceLine.UnitPrice</members>
+        <members>LENNAR__c.ACTIVE__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.Assigned_To_Dealership__c</members>
