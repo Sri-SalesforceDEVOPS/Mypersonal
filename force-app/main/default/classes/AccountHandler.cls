@@ -5,8 +5,7 @@ public static Account insertNewAccount()
 {
 string s;
 string k;
-//testinggg
-          string sri;
+
      Account act = New Account();
         act.Name = 'sri';
     try {
