@@ -1,7 +1,5 @@
 Public class Casehelper{
-// NEW HEXA FETAURE TEST
-//HEXA COMMIT 2
-//new testttt
+
     public static Boolean runOnce = true;
     list<case> caselist = new list<case>();
     set<id> CaseId=new set<id>();
